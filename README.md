@@ -36,8 +36,18 @@ pnpm docs:pdf				#pdf 导出
 
 ## 展示
 
+<<<<<<< HEAD
 ![image-20230923221927311](.\assets\image-20230923221927311.png)
 
 ![image-20230923221824445](.\assets\image-20230923221824445.png)
 
 ![image-20230923221943396](.\assets\image-20230923221943396.png)
+=======
+![image-20230923221824445](C:\Users\32763\AppData\Roaming\Typora\typora-user-images\image-20230923221824445.png)
+
+
+
+![image-20230923221927311](F:\code\gitcode\vitepress-template\assets\image-20230923221927311.png)
+
+![image-20230923221943396](F:\code\gitcode\vitepress-template\assets\image-20230923221943396.png)
+>>>>>>> cee3e8b7a5265a47262b8f45bfadcd1cd085a785
