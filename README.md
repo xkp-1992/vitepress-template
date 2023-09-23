@@ -34,3 +34,12 @@ pnpm docs:preview
 pnpm docs:pdf				#pdf 导出
 ```
 
+## 展示
+
+![image-20230923221824445](C:\Users\32763\AppData\Roaming\Typora\typora-user-images\image-20230923221824445.png)
+
+
+
+![image-20230923221927311](F:\code\gitcode\vitepress-template\assets\image-20230923221927311.png)
+
+![image-20230923221943396](F:\code\gitcode\vitepress-template\assets\image-20230923221943396.png)
